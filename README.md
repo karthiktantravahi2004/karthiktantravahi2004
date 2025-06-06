@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m Karthik Tantravahi
 
 - 👀 I’m passionate about building scalable web apps, system architecture, and exploring creative tech solutions.
-- 🌱 Currently learning and practicing Flutter, Django, and Data Structures & Algorithms with C++.
+- 🌱 Currently learning and practicing AWS, Django, and Data Structures & Algorithms with C++.
 - 💞️ Looking to collaborate on full-stack web/mobile apps, open-source projects, or anything that inspires learning and innovation.
 - 📫 Reach me at karthiktantravahi2004@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/karthiktantravahi).
 - 😄 Pronouns: He/Him
