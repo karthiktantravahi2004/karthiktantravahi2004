@@ -1,10 +1,12 @@
-👋 Hi there, I’m Karthik Tantravahi
-👀 I’m passionate about building scalable web apps, architecting systems, and exploring creative tech solutions.
-🌱 Currently diving deeper into , Django, and Data Structures & Algorithms in C++.
-💞️ Always open to collaborating on full-stack projects, open-source tools, or anything that helps people learn and grow!
-📫 Reach me at: karthiktantravahi2004@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/karthiktantravahi)
-😄 Pronouns: He/Him
-⚡ Fun fact: I start my day at 5 AM with a gym session and love challenging myself with small daily habits for big transformations
+### 👋 Hi there, I’m Karthik Tantravahi
+
+- 👀 I’m passionate about building scalable web apps, system architecture, and exploring creative tech solutions.
+- 🌱 Currently learning and practicing Flutter, Django, and Data Structures & Algorithms with C++.
+- 💞️ Looking to collaborate on full-stack web/mobile apps, open-source projects, or anything that inspires learning and innovation.
+- 📫 Reach me at karthiktantravahi2004@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/karthiktantravahi).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I kick off my day at 5 AM with a gym session and build small daily habits for mental, physical, and financial transformation 🚀
+
 
 I may be tested today, but I'll keep evolving and mastering new things
 
