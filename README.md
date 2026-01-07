@@ -65,5 +65,4 @@ Final-year CSE student focused on full-stack development, cloud engineering, and
 ---
 
 ## ⚡ Reality
-5 AM gym. Daily skill building.  
 No fake projects. No inflated claims.
